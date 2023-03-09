@@ -1,0 +1,12 @@
+[submodule "raw_repos/lightning"]
+	path = raw_repos/lightning
+	url = https://github.com/ElementsProject/lightning
+[submodule "raw_repos/lnd"]
+	path = raw_repos/lnd
+	url = https://github.com/lightningnetwork/lnd
+[submodule "raw_repos/rust-lightning"]
+	path = raw_repos/rust-lightning
+	url = https://github.com/lightningdevkit/rust-lightning
+[submodule "raw_repos/eclair"]
+	path = raw_repos/eclair
+	url = https://github.com/ACINQ/eclair
